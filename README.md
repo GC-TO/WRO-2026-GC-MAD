@@ -413,7 +413,7 @@ Both videos show CarloBot running a full challenge without anyone touching it.
 
 | Challenge | Video |
 |---|---|
-| Open Challenge | [WRO Open Challenge MAD Engineering](https://www.youtube.com/watch?v=Sayu6AHdB2I) |
+| Open Challenge | [WRO Open Challenge MAD Engineering](https://youtu.be/JmGsHBLQuXw) |
 | Obstacle Challenge | [WRO Obstacle Challenge MAD Engineering](https://www.youtube.com/watch?v=Lf-R_jDDapE) |
 
 ## How to Run
