@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34854190/README.md)
 # WRO 2026 Future Engineers
 
 <div align="center">
