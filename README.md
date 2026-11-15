@@ -43,9 +43,7 @@ MAD comes from the first letter of our names: Manuel, Antonio and Daniel. CarloB
 
 We are part of the Future Engineers division of Game Changer Robotics, an academy in El Salvador that teaches engineering through real competition projects. This is our second international season. We competed at WRO Singapore 2025 representing El Salvador, and what we saw there shaped the 2026 version of CarloBot.
 
-<!-- Previous team photo, kept in case it is still wanted:
 <img width="960" height="1280" alt="WhatsApp Image 2026-06-20 at 15 24 34" src="https://github.com/user-attachments/assets/30821f63-e0bf-467d-9a7f-833e46ebfa98" />
--->
 
 ## About CarloBot
 
